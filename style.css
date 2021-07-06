@@ -17,6 +17,8 @@ h1{
 section{
 
     display: flex;
+
+    margin-bottom:  100px;
 }
 .half-width{
 
@@ -44,4 +46,10 @@ padding-left: 10%;
     font-weight: 400;
 
     border-radius: 5px;
+}
+
+.about-me{
+     
+    background-image: url(images/shapes/7.png);
+   
 }
